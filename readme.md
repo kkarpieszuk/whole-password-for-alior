@@ -1,0 +1,1 @@
+https://addons.mozilla.org/pl/firefox/addon/whole-password-for-alior/
